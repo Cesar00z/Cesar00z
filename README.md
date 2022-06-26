@@ -1,4 +1,4 @@
-- 👋 Hi, I’m César.
+- 👋 Hi.
 - 🌱 :smiley:
 - :computer::v:
 <!------>
