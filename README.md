@@ -1,4 +1,4 @@
 - 👋 Hi.
 - 🌱 :smiley:
-- :computer::v:
+-Learning js :computer::v:
 <!------>
