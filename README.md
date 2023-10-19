@@ -1,5 +1,4 @@
 - 👋 Hola, soy César Bruzual
-- 🌱 Actualmente estoy aprendiendo **React, SQL, Serverless**
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
