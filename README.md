@@ -1,5 +1,7 @@
 - 👋 Hola, soy César Bruzual
 
+- 🌱 I’m currently learning **Framework Astro**
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 
